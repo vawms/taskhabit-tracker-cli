@@ -1,0 +1,1 @@
+This is a mini project to relearn some basic python and computer science fundamentals while also just creating something fun and maybe useful. The project is a Task & Habit Tracker in the terminal using python.
